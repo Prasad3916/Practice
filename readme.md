@@ -28,9 +28,21 @@
  [google](https://github.com)  
 
 
-
+### Left Align BY Default or give | :------ |
  | Sno | Name | Age |
  |---|---|----|
+ |01|Prasad|21|
+ |02|Sai|21|
+
+### For Right Align
+  | Sno | Name | Age |
+ |---:|---:|----:|
+ |01|Prasad|21|
+ |02|Sai|21|
+
+### Left Center Align
+   | Sno | Name | Age |
+ |:---:|:---:|:----:|
  |01|Prasad|21|
  |02|Sai|21|
  
