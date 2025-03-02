@@ -1,3 +1,4 @@
+``` html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,3 +10,9 @@
     <h1>Hello World   1</h1>
 </body>
 </html>
+```
+
+``` js
+let x=10;
+
+```
