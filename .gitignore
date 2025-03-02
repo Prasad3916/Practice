@@ -4,5 +4,7 @@
 #ignore basic.txt file
 Basic.html    
 # ignore Basic.html file
-# Main/
-#ignore root Main folder Only
+# /temp
+#ignore root temp folder Only
+temp/
+#ignore temp folder anu where 
