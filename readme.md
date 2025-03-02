@@ -34,7 +34,7 @@
  |01|Prasad|21|
  |02|Sai|21|
 
-### For Right Align
+### For Right Align minimim 3 --- should be given
   | Sno | Name | Age |
  |---:|---:|----:|
  |01|Prasad|21|
