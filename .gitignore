@@ -1,0 +1,8 @@
+*.txt  
+#all txt files fill ignore
+!basic.txt   
+#ignore basic.txt file
+Basic.html    
+# ignore Basic.html file
+# Main/
+#ignore root Main folder Only
