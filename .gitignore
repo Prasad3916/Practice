@@ -1,6 +1,7 @@
 *.txt  
 #all txt files fill ignore
-!basic.txt   
+!basic.txt 
+!REVERT.txt  
 #unignore basic.txt file 
 # /temp
 #ignore root temp folder Only
